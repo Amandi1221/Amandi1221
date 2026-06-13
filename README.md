@@ -26,7 +26,7 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   
-  <br><br>
+  <br>
 
   <!-- Tools, Frameworks & Design -->
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
