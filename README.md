@@ -1,17 +1,57 @@
-<h1 align="center">Hi 👋, I'm Amandi Chamathsara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+# Hi there, I'm Amandi Chamathsara 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandi1221&label=Profile%20views&color=0e75b6&style=flat" alt="amandi1221" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Internship-0ea5e9?style=for-the-badge&logo=github" alt="Internship Status" />
+</p>
+
+### 🎓 About Me
+I am an ambitious **Information Technology Undergraduate** pursuing my Higher National Diploma in IT at the **Sri Lanka Institute of Advanced Technological Education (SLIATE)**. I am passionate about web development, building clean user interfaces, and solving real-world problems through technology.
+
+- 🔍 **Looking for:** IT / Software Engineering / Web Development Internship opportunities.
+- 🚀 **Goal:** To apply my academic knowledge in a professional environment and learn from industry experts.
+- 📚 **Continuous Learning:** Always exploring new technologies and best practices in coding.
 
 ---
 
-- 📫 How to reach me **chamathsaraamandi2003@gmail.com**
+### 💻 Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/s.k.amandi chamathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s.k.amandi chamathsara" height="30" width="40" /></a>
-<a href="https://fb.com/amandi chamathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amandi chamathsara" height="30" width="40" /></a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  
+  <!-- Tools & Frameworks -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+*(Note: ඔයා තව දන්න Languages/Tools තියෙනවා නම් (MySQL, Java වගේ) ඒවගේ බෑජස් පස්සේ මේකට එකතු කරගන්න පුළුවන්).*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight&count_private=true" alt="Amandi's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/S.K.Amandi Chamathsara" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chamathsaraamandi2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">⭐️ From <b>Amandi1221</b></p>
+
+
