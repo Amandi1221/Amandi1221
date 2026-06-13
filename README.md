@@ -7,7 +7,7 @@
 ### 🎓 About Me
 I am an ambitious **Information Technology Undergraduate** pursuing my Higher National Diploma in IT at the **Sri Lanka Institute of Advanced Technological Education (SLIATE)**. I am passionate about web development, building clean user interfaces, and solving real-world problems through technology.
 
-- 🔍 **Looking for:** IT / Software Engineering / Web Development Internship opportunities.
+- 🔍 **Looking for:** IT / Network Engineering / Software Engineering / Web Development Internship opportunities.
 - 🚀 **Goal:** To apply my academic knowledge in a professional environment and learn from industry experts.
 - 📚 **Continuous Learning:** Always exploring new technologies and best practices in coding.
 
@@ -27,8 +27,6 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
-
-*(Note: ඔයා තව දන්න Languages/Tools තියෙනවා නම් (MySQL, Java වගේ) ඒවගේ බෑජස් පස්සේ මේකට එකතු කරගන්න පුළුවන්).*
 
 ---
 
