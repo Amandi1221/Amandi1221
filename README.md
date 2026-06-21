@@ -35,7 +35,7 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
 
 ---
 
-```md
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight)
