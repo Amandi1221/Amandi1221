@@ -55,6 +55,19 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
   </a>
 </p>
 
+## 🌐 Portfolio
+
+🔗 Live Website:
+https://amandi1221.github.io/Amandi1221/
+
+## 👩‍💻 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/s-k-amandi-chamathsara-90490b331
+
+GitHub:
+https://github.com/Amandi1221
+
 <p align="center">⭐️ From <b>Amandi1221</b></p>
 
 
