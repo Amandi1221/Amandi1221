@@ -41,7 +41,7 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight)
-```
+
 
 
 ---
