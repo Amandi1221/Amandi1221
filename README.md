@@ -44,17 +44,6 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
 
 ---
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/S.K.Amandi Chamathsara" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:chamathsaraamandi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
 ## 🌐 Portfolio
 
 🔗 Live Website:
