@@ -2,16 +2,17 @@ const menuBtn = document.querySelector(".menu-btn");
 const navLinks = document.querySelector(".nav-links");
 const toggleBtn = document.getElementById("theme-toggle");
 
-// Local Storage එක පරීක්ෂා කර කලින් තිබූ Theme එක Active කිරීම
+// 1. තේමාව පූරණය කිරීම
 if(localStorage.getItem("theme") === "light"){
     document.body.classList.add("light-mode");
     toggleBtn.innerHTML = "☀️";
+} else {
+    toggleBtn.innerHTML = "🌙";
 }
 
-// Light / Dark Mode Toggle එක ක්‍රියාත්මක කිරීම
+// 2. Theme Toggle ක්‍රියාකාරීත්වය
 toggleBtn.addEventListener("click", () => {
     document.body.classList.toggle("light-mode");
-
     if(document.body.classList.contains("light-mode")){
         localStorage.setItem("theme", "light");
         toggleBtn.innerHTML = "☀️";
@@ -21,12 +22,12 @@ toggleBtn.addEventListener("click", () => {
     }
 });
 
-// Mobile Responsive Hamburger Menu එක වැඩ කරවීම
+// 3. Hamburger Menu ක්‍රියාකාරීත්වය
 menuBtn.addEventListener("click", () => {
     navLinks.classList.toggle("active");
 });
 
-// Menu Link එකක් Click කළ විට Mobile Menu එක ස්වයංක්‍රීයව Close වීම
+// 4. Menu Link එකක් ක්ලික් කළ විට මෙනුව වැසීම
 document.querySelectorAll(".nav-links a").forEach(link => {
     link.addEventListener("click", () => {
         navLinks.classList.remove("active");
