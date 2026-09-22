@@ -95,18 +95,15 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Amandi1221">
-    <img height="165" src="https://github-readme-stats-graphene.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amandi's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Amandi1221">
-    <img height="165" src="https://github-readme-stats-graphene.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Amandi1221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amandi1221">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi1221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight&hide_border=true" alt="Amandi's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
