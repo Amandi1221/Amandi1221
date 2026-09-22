@@ -1,7 +1,7 @@
 # Hi there, I'm Amandi Chamathsara 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=IT+Undergraduate+%40+SLIATE;Aspiring+Software+%26+Web+Developer;Actively+Seeking+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%40+SLIATE;Aspiring+Software+%26+Web+Developer;Actively+Seeking+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
