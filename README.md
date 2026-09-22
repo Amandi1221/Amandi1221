@@ -103,12 +103,6 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Amandi1221">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi1221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ### 👩‍💻 Connect With Me
