@@ -1,64 +1,72 @@
 # Hi there, I'm Amandi Chamathsara 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Internship-0ea5e9?style=for-the-badge&logo=github" alt="Internship Status" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=IT+Undergraduate+%40+SLIATE;Aspiring+Software+%26+Web+Developer;Actively+Seeking+Internship+Opportunities" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/s-k-amandi-chamathsara-90490b331">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://amandi1221.github.io/Amandi1221/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 📌 Status
+> 🚀 **Actively seeking Internship opportunities** in Software Engineering, Web Development, IT, or Network Engineering.
+
+---
 
 ### 🎓 About Me
-I am an ambitious **Information Technology Undergraduate** pursuing my Higher National Diploma in IT at the **Sri Lanka Institute of Advanced Technological Education (SLIATE)**. I am passionate about web development, building clean user interfaces, and solving real-world problems through technology.
 
-- 🔍 **Looking for:** IT / Network Engineering / Software Engineering / Web Development Internship opportunities.
-- 🚀 **Goal:** To apply my academic knowledge in a professional environment and learn from industry experts.
-- 📚 **Continuous Learning:** Always exploring new technologies and best practices in coding.
+I am an ambitious **Information Technology Undergraduate** pursuing my Higher National Diploma in IT (HNDIT) at the **Sri Lanka Institute of Advanced Technological Education (SLIATE)**. Passionate about building modern, responsive web applications and designing intuitive user interfaces.
+
+- 🎓 **Education:** HND in Information Technology – SLIATE
+- 🎯 **Focus Areas:** Full-Stack Web Development, Database Management, and UI/UX Design
+- 💡 **Interests:** Clean Architecture, Problem Solving, and Open Source Collaboration
+- 🌱 **Currently Learning:** Advanced Web Frameworks & Cloud Computing Fundamentals
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Technologies & Tools
 
+#### 🛠️ Languages & Databases
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-  <!-- Tools, Frameworks & Design -->
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Adobe Photoshop" />
+#### 🔧 Tools & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
+### 📊 GitHub Analytics
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight)
-
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amandi's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌐 Portfolio
-
-🔗 Live Website:
-https://amandi1221.github.io/Amandi1221/
-
-## 👩‍💻 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/s-k-amandi-chamathsara-90490b331
-
-GitHub:
-https://github.com/Amandi1221
-
-<p align="center">⭐️ From <b>Amandi1221</b></p>
-
-
+<p align="center">
+  <i>Designed with ❤️ by <b>Amandi Chamathsara</b></i>
+</p>
