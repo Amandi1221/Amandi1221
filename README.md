@@ -94,6 +94,12 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
+![Amandi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight)
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
