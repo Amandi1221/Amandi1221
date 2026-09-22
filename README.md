@@ -96,10 +96,16 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
 
 <p align="center">
   <a href="https://github.com/Amandi1221">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Amandi's GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-graphene.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amandi's GitHub Stats" />
   </a>
   <a href="https://github.com/Amandi1221">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats-graphene.vercel.app/api/top-langs/?username=Amandi1221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amandi1221">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi1221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
