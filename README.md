@@ -5,36 +5,42 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/s-k-amandi-chamathsara-90490b331">
+  <a href="https://www.linkedin.com/in/s-k-amandi-chamathsara-90490b331">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://amandi1221.github.io/Amandi1221/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/Amandi1221">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 📌 Status
-> 🚀 **Actively seeking Internship opportunities** in Software Engineering, Web Development, IT, or Network Engineering.
+### 📌 Current Status
+> 🚀 **Actively seeking Internship opportunities** in **Software Engineering**, **Web Development**, **IT**, or **Network Engineering**.
 
 ---
 
 ### 🎓 About Me
 
-I am an ambitious **Information Technology Undergraduate** pursuing my Higher National Diploma in IT (HNDIT) at the **Sri Lanka Institute of Advanced Technological Education (SLIATE)**. Passionate about building modern, responsive web applications and designing intuitive user interfaces.
+I am an ambitious **Information Technology Undergraduate** pursuing my Higher National Diploma in IT (HNDIT) at the **Sri Lanka Institute of Advanced Technological Education (SLIATE)**. Passionate about web development, building clean, responsive user interfaces, and solving real-world problems through functional code.
 
-- 🎓 **Education:** HND in Information Technology – SLIATE
-- 🎯 **Focus Areas:** Full-Stack Web Development, Database Management, and UI/UX Design
-- 💡 **Interests:** Clean Architecture, Problem Solving, and Open Source Collaboration
-- 🌱 **Currently Learning:** Advanced Web Frameworks & Cloud Computing Fundamentals
+- 🔍 **Looking for:** IT / Network Engineering / Software Engineering / Web Development Internship opportunities.
+- 🚀 **Goal:** To apply my academic knowledge in a professional environment and learn from industry experts.
+- 📚 **Continuous Learning:** Always exploring new technologies, software architectural patterns, and coding best practices.
 
 ---
 
-### 💻 Technologies & Tools
+### 🏛️ Education
+
+- **Higher National Diploma in Information Technology (HNDIT)**  
+  *Sri Lanka Institute of Advanced Technological Education (SLIATE)*
+
+---
+
+### 💻 Tech Stack & Tools
 
 #### 🛠️ Languages & Databases
 <p align="left">
@@ -48,17 +54,34 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-#### 🔧 Tools & Design
+#### 🔧 Tools, Environments & Design
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Adobe Photoshop" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🌟 Core Competencies
+
+- **Frontend Development:** HTML5, CSS3, JavaScript (Responsive Web Design, UI/UX Concepts)
+- **Backend & Databases:** PHP, Java, Python, C#, MySQL Database Design & Management
+- **Networking & IT:** Fundamentals of Network Systems, Hardware & Systems Maintenance
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Personal Portfolio** | My interactive personal portfolio website showcasing my skills, background, and projects. | HTML, CSS, JavaScript | [Live Demo](https://amandi1221.github.io/Amandi1221/) |
+| **Academic Projects** | Full-stack & Desktop applications developed as part of the HNDIT coursework. | Java / PHP / C# / MySQL | [View Repositories](https://github.com/Amandi1221?tab=repositories) |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amandi1221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amandi's GitHub Stats" />
@@ -67,6 +90,16 @@ I am an ambitious **Information Technology Undergraduate** pursuing my Higher Na
 
 ---
 
+### 👩‍💻 Connect With Me
+
+<p align="left">
+  🌐 <b>Portfolio:</b> <a href="https://amandi1221.github.io/Amandi1221/">amandi1221.github.io</a><br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/s-k-amandi-chamathsara-90490b331">Amandi Chamathsara</a><br>
+  🐙 <b>GitHub:</b> <a href="https://github.com/Amandi1221">Amandi1221</a>
+</p>
+
+<br>
+
 <p align="center">
-  <i>Designed with ❤️ by <b>Amandi Chamathsara</b></i>
+  ⭐️ Designed with passion by <b>Amandi1221</b>
 </p>
